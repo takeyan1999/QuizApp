@@ -1,0 +1,36 @@
+{
+    "quiz": [
+        {
+            "id": 1,
+            "title": "選択肢１が正解になります。",
+            "select1": "選択肢１",
+            "select2": "選択肢２",
+            "select3": "選択肢３",
+            "select4": "選択肢４",
+            "AnswerNumber": 1
+        },
+        {
+            "id": 2,
+            "title": "選択肢2が正解になります。",
+            "select1": "選択肢１",
+            "select2": "選択肢２",
+            "select3": "選択肢３",
+            "select4": "選択肢４",
+            "AnswerNumber": 2
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "userName": "jack",
+            "email": "jack@eras.jp",
+            "password": 123456
+        },
+        {
+            "id": 2,
+            "userName": "betty",
+            "email": "betty@eras.jp",
+            "password": 123456
+        }
+    ]
+}
